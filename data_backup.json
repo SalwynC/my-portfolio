@@ -1,0 +1,272 @@
+{
+    "personalInfo": {
+        "name": "Salwyn Christopher",
+        "titles": "🚀 Full Stack Developer | Cloud Enthusiast | Tech Explorer",
+        "email": "salwynchristopherpro@gmail.com",
+        "phone": "+91 7462986206",
+        "portfolioUrl": "https://salwynchristopherportfolio.netlify.app",
+        "resumeLink": "#",
+        "location": "Guntur, India"
+    },
+    "socialLinks": [
+        {
+            "platform": "github",
+            "url": "https://github.com/salwync",
+            "icon": "fab fa-github"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://www.linkedin.com/in/salwyn-christopher",
+            "icon": "fab fa-linkedin"
+        },
+        {
+            "platform": "leetcode",
+            "url": "https://leetcode.com/salwyn-christopher",
+            "icon": "fas fa-code"
+        },
+        {
+            "platform": "codechef",
+            "url": "https://www.codechef.com/users/klu220032686",
+            "icon": "fas fa-utensils"
+        }
+    ],
+    "about": {
+        "image": "images/salwyn_christopher.jpg",
+        "description": "Hi! I'm Salwyn, a passionate full stack developer and cloud enthusiast currently pursuing my B.Tech in Information Technology at KL University, Guntur (CGPA: 8.02, 2022-2026). I love building scalable web apps, exploring new tech, and solving real-world problems. My journey includes hands-on experience with modern frameworks, cloud platforms, and a drive to keep learning and innovating. When not coding, I enjoy photography, traveling, and experimenting with new recipes!"
+    },
+    "services": [
+        {
+            "title": "Full Stack Dev",
+            "icon": "fas fa-laptop-code",
+            "description": "End-to-end web application development using modern stacks like MERN, Django, and Next.js. I build scalable, high-performance web solutions."
+        },
+        {
+            "title": "Cloud Engineering",
+            "icon": "fas fa-cloud",
+            "description": "Designing secure, robust cloud architectures on AWS & GCP. Expertise in serverless computing, containerization, and DevOps pipelines."
+        },
+        {
+            "title": "Mobile Apps",
+            "icon": "fas fa-mobile-alt",
+            "description": "Developing cross-platform mobile applications using React Native. efficient code and native-like performance for iOS and Android."
+        },
+        {
+            "title": "UI/UX Design",
+            "icon": "fas fa-paint-brush",
+            "description": "Creating intuitive, user-centric designs with a focus on aesthetics and detailed interaction flows to ensure a premium user experience."
+        }
+    ],
+    "skills": {
+        "Languages": [
+            "Python",
+            "C",
+            "SQL",
+            "Bash",
+            "Java",
+            "TypeScript"
+        ],
+        "Frontend": [
+            "React.js",
+            "Next.js",
+            "Angular",
+            "Vue.js",
+            "Tailwind CSS",
+            "Bootstrap",
+            "HTML5",
+            "CSS3"
+        ],
+        "Backend": [
+            "Node.js",
+            "Express.js",
+            "Flask",
+            "Django",
+            "Ruby on Rails",
+            "Java",
+            "REST APIs"
+        ],
+        "Frameworks": [
+            "Scikit-learn",
+            "TensorFlow",
+            "Keras",
+            "Django",
+            "Flask",
+            "Node.js"
+        ],
+        "Databases": [
+            "PostgreSQL",
+            "MySQL",
+            "SQLite",
+            "MongoDB",
+            "Firebase"
+        ],
+        "Cloud Platforms": [
+            "AWS",
+            "GCP",
+            "Azure",
+            "Firebase"
+        ],
+        "Soft Skills": [
+            "Teamwork",
+            "Leadership",
+            "Adaptability",
+            "Creativity",
+            "Innovation",
+            "Time Management",
+            "Problem-Solving",
+            "Communication"
+        ]
+    },
+    "experience": [
+        {
+            "title": "AICTE Remote Intern - Virtual Internships (Google)",
+            "duration": "2023 – 2024",
+            "details": [
+                "Android Development (Cohort 8): Jetpack Compose, REST APIs, Kotlin, Android Studio, Git.",
+                "Cloud Engineering (Cohort 11): React.js, AWS, Node.js, Express.js, Git, REST APIs."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nimbus: Cloud-Powered Study Hub",
+            "date": "June 2025",
+            "badges": [
+                {
+                    "name": "Node.js",
+                    "class": "badge-primary"
+                },
+                {
+                    "name": "Firebase",
+                    "class": "badge-warning"
+                },
+                {
+                    "name": "AWS",
+                    "class": "badge-info"
+                },
+                {
+                    "name": "React Native",
+                    "class": "badge-success"
+                }
+            ],
+            "description": [
+                "Cloud-based academic platform for study resources.",
+                "Real-time doubt resolution, dark mode, feedback, secure account recovery.",
+                "Scalable backend with Firebase and AWS."
+            ]
+        },
+        {
+            "title": "PathFlow: Roadmap Manager",
+            "date": "Jan 2025",
+            "badges": [
+                {
+                    "name": "MongoDB",
+                    "class": "badge-success"
+                },
+                {
+                    "name": "Express.js",
+                    "class": "badge-primary"
+                },
+                {
+                    "name": "React.js",
+                    "class": "badge-info"
+                },
+                {
+                    "name": "Node.js",
+                    "class": "badge-dark"
+                },
+                {
+                    "name": "WebSocket",
+                    "class": "badge-warning"
+                },
+                {
+                    "name": "AWS",
+                    "class": "badge-info"
+                },
+                {
+                    "name": "Tailwind CSS",
+                    "class": "badge-primary"
+                }
+            ],
+            "description": [
+                "Built an interactive roadmap platform for creating and sharing personalized roadmaps with templates.",
+                "Real-time collaboration with WebSocket and scalable AWS backend."
+            ]
+        },
+        {
+            "title": "SkyBook: Airline Reservation System",
+            "date": "June 2024",
+            "badges": [
+                {
+                    "name": "Python",
+                    "class": "badge-primary"
+                },
+                {
+                    "name": "Django",
+                    "class": "badge-dark"
+                },
+                {
+                    "name": "MySQL",
+                    "class": "badge-info"
+                },
+                {
+                    "name": "Git",
+                    "class": "badge-success"
+                },
+                {
+                    "name": "PyCharm",
+                    "class": "badge-warning"
+                }
+            ],
+            "description": [
+                "Developed a full-stack flight booking platform for searching, booking, and managing reservations.",
+                "Admin features for managing schedules, seats, and ticketing.",
+                "RESTful API with Django and PostgreSQL for transactions."
+            ]
+        },
+        {
+            "title": "CanvasVerse: Online Art Gallery",
+            "date": "Oct 2024",
+            "badges": [
+                {
+                    "name": "Node.js",
+                    "class": "badge-primary"
+                },
+                {
+                    "name": "MongoDB",
+                    "class": "badge-success"
+                },
+                {
+                    "name": "Express.js",
+                    "class": "badge-info"
+                },
+                {
+                    "name": "React.js",
+                    "class": "badge-dark"
+                },
+                {
+                    "name": "Git",
+                    "class": "badge-warning"
+                }
+            ],
+            "description": [
+                "Dynamic platform for artists and buyers to display, sell, bid, and discover artwork.",
+                "Scalable backend with MongoDB and Express.js.",
+                "Responsive React.js frontend for smooth browsing."
+            ]
+        }
+    ],
+    "certifications": [
+        "AWS: Cloud Practitioner",
+        "MongoDB: DBA Associate",
+        "RPA: RPA Essentials"
+    ],
+    "education": [
+        {
+            "institution": "KL University, Guntur, India",
+            "duration": "2022 – 2026",
+            "degree": "Bachelor of Technology - Information Technology",
+            "gpa": "CGPA: 8.02",
+            "courses": "Operating Systems, Data Structures, Algorithms, Software Engineering, Networking, Databases, Cloud Computing, Full Stack Web Development"
+        }
+    ]
+}
